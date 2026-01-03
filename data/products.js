@@ -22,6 +22,14 @@ const products = [
     image: "https://m.media-amazon.com/images/I/71xPG8KDEpL._SX679_.jpg",
     link: "https://www.amazon.in/VOGARD-Pop-Up-Leather-Blocking-Magnetic/dp/B0FXM7RWLJ/ref=zg_bsnr_c_luggage_d_sccl_2/258-0330635-3740842?pd_rd_w=ynu6z&content-id=amzn1.sym.b908f532-cbe7-4274-8b24-b671acc58bd2&pf_rd_p=b908f532-cbe7-4274-8b24-b671acc58bd2&pf_rd_r=P2SS0KHRS76CGK70HH4X&pd_rd_wg=oSY3C&pd_rd_r=0ce06f5a-f801-4fee-b0b3-6836c845ea34&pd_rd_i=B0FXM7RWLJ&th=1"
   },
+
+    {
+    slug: "Splash Guard",
+    name: "VazzLox 2PCS X 48CM Silicone Sink Splash Guard",
+    description: "VazzLox 2PCS X 48CM Silicone Sink Splash Guard in Kitchen Sink Water Splash Guard with Strong Suction Cups Waterproof Countertop & Stove Protector Flexible Anti Splash Baffle for Kitchen & Bathroom",
+    image: "https://m.media-amazon.com/images/I/61ji1t507rL._SX679_.jpg",
+    link: "https://www.amazon.in/VazzLox-Silicone-Waterproof-Countertop-Protector/dp/B0G6DNDT8N/ref=zg_bsnr_c_home-improvement_d_sccl_1/258-0330635-3740842?pd_rd_w=MI7h6&content-id=amzn1.sym.b908f532-cbe7-4274-8b24-b671acc58bd2&pf_rd_p=b908f532-cbe7-4274-8b24-b671acc58bd2&pf_rd_r=XC63WV3GGZ0MWS16WFN9&pd_rd_wg=U2B0J&pd_rd_r=99bb3c00-874f-4139-8f58-9a130769021f&pd_rd_i=B0G6DNDT8N&th=1"
+  },
 ];
 
 export default products;
