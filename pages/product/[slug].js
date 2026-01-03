@@ -21,12 +21,12 @@ export default function ProductPage({ product }) {
 
         <a href={product.link} target="_blank">
           <button style={{ background: "#ff9900", padding: "12px", color: "#fff" }}>
-            Buy on Amazon
+            Buy Now
           </button>
         </a>
 
         <p style={{ marginTop: "20px", fontSize: "12px" }}>
-          As an Amazon Associate, I earn from qualifying purchases.
+          Click on the Buy Now get the best deals!!
         </p>
       </main>
       <Footer />
