@@ -14,6 +14,14 @@ const products = [
     image: "https://m.media-amazon.com/images/I/51E69SqCZoL._SX679_.jpg",
     link: "https://www.amazon.in/HNY-Digital-Automatic-Temperature-Students/dp/B0FSDKZVR7/ref=zg_bsnr_c_kitchen_d_sccl_12/258-0330635-3740842?pd_rd_w=CKYCZ&content-id=amzn1.sym.b908f532-cbe7-4274-8b24-b671acc58bd2&pf_rd_p=b908f532-cbe7-4274-8b24-b671acc58bd2&pf_rd_r=XR81WZ61GA4TFEK8ZPM6&pd_rd_wg=06vSs&pd_rd_r=2b2276e9-e903-4d81-a4e8-29525d592e72&pd_rd_i=B0FSDKZVR7&psc=1"
   },
+
+    {
+    slug: "wallet",
+    name: "VOGARD Smart Pop-Up Leather Wallet",
+    description: "A sleek and compact metal cardholder designed to store multiple cards in an organized manner",
+    image: "https://m.media-amazon.com/images/I/71xPG8KDEpL._SX679_.jpg",
+    link: "https://www.amazon.in/VOGARD-Pop-Up-Leather-Blocking-Magnetic/dp/B0FXM7RWLJ/ref=zg_bsnr_c_luggage_d_sccl_2/258-0330635-3740842?pd_rd_w=ynu6z&content-id=amzn1.sym.b908f532-cbe7-4274-8b24-b671acc58bd2&pf_rd_p=b908f532-cbe7-4274-8b24-b671acc58bd2&pf_rd_r=P2SS0KHRS76CGK70HH4X&pd_rd_wg=oSY3C&pd_rd_r=0ce06f5a-f801-4fee-b0b3-6836c845ea34&pd_rd_i=B0FXM7RWLJ&th=1"
+  },
 ];
 
 export default products;
