@@ -1,0 +1,17 @@
+.card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  width: 250px;
+}
+
+.card img {
+  width: 100%;
+}
+
+.button {
+  background: #ff9900;
+  border: none;
+  padding: 10px;
+  color: white;
+  cursor: pointer;
+}
