@@ -30,6 +30,46 @@ const products = [
     image: "https://m.media-amazon.com/images/I/61ji1t507rL._SX679_.jpg",
     link: "https://www.amazon.in/VazzLox-Silicone-Waterproof-Countertop-Protector/dp/B0G6DNDT8N/ref=zg_bsnr_c_home-improvement_d_sccl_1/258-0330635-3740842?pd_rd_w=MI7h6&content-id=amzn1.sym.b908f532-cbe7-4274-8b24-b671acc58bd2&pf_rd_p=b908f532-cbe7-4274-8b24-b671acc58bd2&pf_rd_r=XC63WV3GGZ0MWS16WFN9&pd_rd_wg=U2B0J&pd_rd_r=99bb3c00-874f-4139-8f58-9a130769021f&pd_rd_i=B0G6DNDT8N&th=1"
   },
+
+    {
+    slug: "Power Plate",
+    name: "Portronics Power Plate 9 Pro",
+    description: "2500W 7-in-1 Desktop Charging Station with 4X Universal Sockets, 12W USB-A & Type-C Ports, Space-Saving Power Extender, 2M Cord, Power Switch, Child Proof Shutters",
+    image: "https://m.media-amazon.com/images/I/61DfT-VdKeL._SX522_.jpg",
+    link: "https://www.amazon.in/Portronics-Charging-Universal-Space-Saving-Extender/dp/B0FWRT9NNJ/ref=zg_bsnr_c_home-improvement_d_sccl_5/258-0330635-3740842?pd_rd_w=MI7h6&content-id=amzn1.sym.b908f532-cbe7-4274-8b24-b671acc58bd2&pf_rd_p=b908f532-cbe7-4274-8b24-b671acc58bd2&pf_rd_r=XC63WV3GGZ0MWS16WFN9&pd_rd_wg=U2B0J&pd_rd_r=99bb3c00-874f-4139-8f58-9a130769021f&pd_rd_i=B0FWRT9NNJ&psc=1"
+  },
+
+    {
+    slug: "Rechargeable Torch Light",
+    name: "WOZIT Rechargeable Torch Light",
+    description: "Aluminum Metal Body, Telescopic Zoom, 3 Audjustable Modes, Led Lesar Flashlight Strong Beam, Search Light for Emergency Use with Long Backup Battery (Multicolor)",
+    image: "https://m.media-amazon.com/images/I/61YzFf0E6CL._SX522_.jpg",
+    link: "https://www.amazon.in/WOZIT-Rechargeable-Telescopic-Audjustable-Flashlight/dp/B0G34T4V1C/ref=zg_bsnr_c_home-improvement_d_sccl_12/258-0330635-3740842?pd_rd_w=MI7h6&content-id=amzn1.sym.b908f532-cbe7-4274-8b24-b671acc58bd2&pf_rd_p=b908f532-cbe7-4274-8b24-b671acc58bd2&pf_rd_r=XC63WV3GGZ0MWS16WFN9&pd_rd_wg=U2B0J&pd_rd_r=99bb3c00-874f-4139-8f58-9a130769021f&pd_rd_i=B0G34T4V1C&psc=1"
+  },
+
+    {
+    slug: "Wireless Water Dispenser Pump",
+    name: "COSTAR Portable Wireless Water Dispenser Pump",
+    description: "Water Dispenser Pump for 20 Litre Bottle, Automatic Water Pump with Led Digital Display, Water Dispenser Hot and Cold Smart Touch, Rechargeable Battery, Foldable, 1200mAh",
+    image: "https://m.media-amazon.com/images/I/61dNrpZYqlL._SX679_.jpg",
+    link: "https://www.amazon.in/COSTAR-Portable-Dispenser-Automatic-Rechargeable/dp/B0FWXM2QV6/ref=zg_bsnr_c_home-improvement_d_sccl_15/258-0330635-3740842?pd_rd_w=MI7h6&content-id=amzn1.sym.b908f532-cbe7-4274-8b24-b671acc58bd2&pf_rd_p=b908f532-cbe7-4274-8b24-b671acc58bd2&pf_rd_r=XC63WV3GGZ0MWS16WFN9&pd_rd_wg=U2B0J&pd_rd_r=99bb3c00-874f-4139-8f58-9a130769021f&pd_rd_i=B0FWXM2QV6&psc=1"
+  },
+
+    {
+    slug: "Power Bank",
+    name: "DailyObjects Loop Qi2",
+    description: "Certified 10000 mAh Fast Charging MagSafe-Compatible Wireless Aluminium Power Bank - Black Compatible with iPhone 16, 15,14,13,12 Series | Multi-Layer chipset for Protection",
+    image: "https://m.media-amazon.com/images/I/613-pfe6XNL._SX522_.jpg",
+    link: "https://www.amazon.in/DailyObjects-Qi2-Certified-Charging-MagSafe-Compatible-Aluminium/dp/B0DSPQFHQR/ref=sxin_14_pa_sp_search_thematic_sspa?content-id=amzn1.sym.0629fcb0-94ed-4eba-9abe-6c93c227c465%3Aamzn1.sym.0629fcb0-94ed-4eba-9abe-6c93c227c465&crid=3CPWBFZ5HA8ZF&cv_ct_cx=power%2Bbank&keywords=power%2Bbank&pd_rd_i=B0DSPQFHQR&pd_rd_r=f24a45ad-2c93-4112-aeaa-c30f3e1ddf01&pd_rd_w=zEJnJ&pd_rd_wg=pkTwS&pf_rd_p=0629fcb0-94ed-4eba-9abe-6c93c227c465&pf_rd_r=90ZBNM3WGM008HB465SQ&qid=1767538956&s=electronics&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=power%2Bbank%2Celectronics%2C393&sr=1-1-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons&xpid=pOCj5wcLWH_ao&aref=lLaEl8LkjZ&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1"
+  },
+
+    {
+    slug: "RB20",
+    name: "LEGO Speed Champions Oracle Red Bull Racing RB20 F1 Race",
+    description: "Explore authentic F1 Red Bull details - This F1 race car features design details from the real-life 2024 version, including a rear wing, halo bar and wider rear tires imprinted with “Pirelli”",
+    image: "https://m.media-amazon.com/images/I/81A19lSMmcL._SX522_.jpg",
+    link: "https://www.amazon.in/LEGO-Champions-Vehicle-77243-Building/dp/B0DHSFBRPB/ref=sr_1_2?crid=1WUIKKRE5GAB5&dib=eyJ2IjoiMSJ9.yOP4r2kaGPyVo_lRtALCVgNGHNoBvRR4P5I97ZkXtoUkI_JHp1i3fQpB8N2rKH8larTv1f9bhrFPK6cAVwZrO0-FlVOoLIazYh3mLCUnV-rUBEJtorwOAX-NmNAnQY_BzK9YL99Yy2mBW7-tkMQLbaxVtiWi3MWB6XZRc7rX-KKg0NCTqT-LTLgdAaD0XCYQS15w_eYQzGbRPSsy8oSdxJk93iNFfxOR_blFXQBaqimQlNWwp_2MyvlSNR4VIOjLxiYkzXXDh-UHd_m9srfKAoDVtpQHIorAP64SCRU72iU.dZEIbsXWrxRpu-PeC8RsrdBnINWYzL9b4e9WGt6-Ftk&dib_tag=se&keywords=Redbull%2Bf1%2Bcar&qid=1767539263&s=toys&sprefix=redbull%2Bf1%2Bca%2Ctoys%2C389&sr=1-2&th=1"
+  },
 ];
 
 export default products;
